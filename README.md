@@ -1,4 +1,4 @@
-# dio-desafio-github-first-repository
+# Repositório Desafio DIO
 Desafio de Projeto sobre Git/GitHub
 
 ## Meu Perfil
